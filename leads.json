@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nome": " joão silva ",
+    "telefone": "(81) 99876-5432",
+    "email": "Joao.Silva@Gmail.com ",
+    "origem": "Instagram",
+    "mensagem": "Quero saber o valor da Hilux 2022",
+    "data_hora": "2026-09-28T09:15:00"
+  },
+  {
+    "id": 2,
+    "nome": "MARIA OLIVEIRA",
+    "telefone": "+55 81 98123-4567",
+    "email": "maria@hotmail.com",
+    "origem": "Site",
+    "mensagem": "Tenho um Gol pra dar na troca, consigo financiar o resto?",
+    "data_hora": "2026-09-28T10:02:00"
+  },
+  {
+    "id": 3,
+    "nome": "carlos souza",
+    "telefone": "8133224455",
+    "email": "",
+    "origem": "Facebook",
+    "mensagem": "Bom dia",
+    "data_hora": "2026-09-28T11:40:00"
+  },
+  {
+    "id": 4,
+    "nome": "Ana Paula Lima",
+    "telefone": "81 9 9654-3210",
+    "email": "anapaula@@gmail",
+    "origem": "Instagram",
+    "mensagem": "Posso fazer um test drive hoje?",
+    "data_hora": "2026-09-28T13:20:00"
+  },
+  {
+    "id": 5,
+    "nome": "joão silva",
+    "telefone": "81998765432",
+    "email": "joao.silva@gmail.com",
+    "origem": "WhatsApp",
+    "mensagem": "Ainda tem a Hilux? Aceita troca?",
+    "data_hora": "2026-09-29T08:05:00"
+  },
+  {
+    "id": 6,
+    "nome": "Pedro Henrique",
+    "telefone": "",
+    "email": "pedro.h@outlook.com",
+    "origem": "Site",
+    "mensagem": "Qual o preço da Strada?",
+    "data_hora": "2026-09-29T09:30:00"
+  },
+  {
+    "id": 7,
+    "nome": "lucas almeida",
+    "telefone": "(87) 98111-2233",
+    "email": "LUCAS@YAHOO.COM.BR",
+    "origem": "Instagram",
+    "mensagem": "Só olhando mesmo",
+    "data_hora": "2026-09-29T14:10:00"
+  },
+  {
+    "id": 8,
+    "nome": "Fernanda Costa",
+    "telefone": "(81) 99876-543",
+    "email": "fernanda@gmail.com",
+    "origem": "Facebook",
+    "mensagem": "Tem SW4 disponível?",
+    "data_hora": "2026-09-29T16:45:00"
+  },
+  {
+    "id": 9,
+    "nome": " rafael gomes",
+    "telefone": "5587988776655",
+    "email": "rafael.gomes@gmail.com",
+    "origem": "Site",
+    "mensagem": "VALOR À VISTA DA TORO?",
+    "data_hora": "2026-09-30T10:00:00"
+  },
+  {
+    "id": 10,
+    "nome": "Maria Oliveira",
+    "telefone": "81981234567",
+    "email": "maria@hotmail.com",
+    "origem": "Instagram",
+    "mensagem": "Oi",
+    "data_hora": "2026-09-27T18:00:00"
+  },
+  {
+    "id": 11,
+    "nome": "Beatriz Rocha",
+    "telefone": "(81) 3456-7890",
+    "email": "bia.rocha@gmail.com",
+    "origem": "WhatsApp",
+    "mensagem": "Quero financiamento",
+    "data_hora": "2026-09-30T11:15:00"
+  },
+  {
+    "id": 12,
+    "nome": "thiago nunes",
+    "telefone": "(81) 98765-1234",
+    "email": "thiago.nunes@gmail.com",
+    "origem": "Facebook",
+    "mensagem": "Vocês abrem sábado?",
+    "data_hora": "2026-09-30T15:20:00"
+  }
+]
